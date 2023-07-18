@@ -201,6 +201,38 @@ align-items: center;
 
 /* start footer section */
 
+footer{
+    margin-top: 70px;
+    margin-bottom: 30px;
+    background: #0A0826;
+    height: 250px;
+}
+.footer-section{
+    padding-top: 60px;
+    text-align: center;
+}
+.footer-title{
+    color: #FFF;
+    font-size: 2rem;
+    font-weight: 700;
+
+}
+
+.footer-description{
+    padding-bottom: 5px;
+    color:  #D9DBE1;
+    font-family: Manrope;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 24px; /* 171.429% */
+}
+
+.social-link img{
+    padding: 10px;
+
+}
+
+/* footer section end */
 
 
  
